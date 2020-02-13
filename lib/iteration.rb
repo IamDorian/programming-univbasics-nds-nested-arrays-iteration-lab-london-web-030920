@@ -8,7 +8,7 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
   array_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
    
-  array_2 = ["I love pepperoni and sausage on my pizza",
+  array_2 = ["I love" +[0,0]+ "and sausage on my pizza",
              "I love green olives and green peppers on my pizza",
              "I love onions and pineapple on my pizza"]
 end
