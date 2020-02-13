@@ -7,7 +7,10 @@ def join_ingredients(src)
   # "I love (inner array element 0) and (inner array element 1) on my pizza""
   # As such, there should be a new String for each inner array, or pair
   array_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
-  
+   
+  array_2 = ["I love pepperoni and sausage on my pizza",
+             "I love green olives and green peppers on my pizza",
+             "I love onions and pineapple on my pizza"]
 end
 
 def find_greater_pair(src)
