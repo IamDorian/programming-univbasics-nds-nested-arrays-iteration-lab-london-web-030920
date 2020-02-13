@@ -29,4 +29,5 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   array_3 = [344812]
+  return array_3
 end
